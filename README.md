@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -110,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu28664-cloud/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
